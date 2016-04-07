@@ -1,2 +1,2 @@
 # my-cool-website
-http://ue2116.github.io/index.html
+http://ue2116.github.io/my-cool-website
